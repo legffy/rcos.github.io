@@ -1,1 +1,6 @@
-
+title: "RCOS Page"
+description: "My site for RCOS / my stuff"
+theme: minima
+author: "Your Name or Legffy"
+url: "https://rcos.github.io"
+baseurl: ""        # <--- important: empty string for user site
