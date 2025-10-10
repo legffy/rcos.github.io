@@ -1,9 +1,9 @@
 ---
-<link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 
 layout: home
 title: Home
 ---
+<link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 
 # Welcome 👋
 
