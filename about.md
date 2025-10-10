@@ -1,11 +1,10 @@
-<link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 
----
+
 layout: page
 title: About
 permalink: /about/
 ---
-
+<link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 ## About this site
 
 - **Theme:** Minima (built-in GitHub Pages)
