@@ -1,6 +1,8 @@
-title: "RCOS Page"
-description: "My site for RCOS / my stuff"
+title: "RCOS Site"
+description: "Built with Jekyll on GitHub Pages"
 theme: minima
-author: "Legffy"
-url: "https://legffy.github.io/rcos.github.io/"
-baseurl: ""
+
+url: "https://legffy.github.io"   # no trailing slash
+baseurl: "/rcos.github.io"         # repo path (leading slash, no trailing slash)
+
+author: "Randy"
