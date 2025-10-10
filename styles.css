@@ -1,1 +1,19 @@
 
+h1, h2, h3 {
+  letter-spacing: 0.3px;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.post-content p, .page-content p {
+  line-height: 1.7;
+}
+
+.home h1 {
+  border-bottom: 2px solid rgba(0,0,0,0.08);
+  padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
+}
