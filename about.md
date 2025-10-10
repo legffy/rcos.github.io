@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 
 ---
 layout: page
@@ -11,6 +11,5 @@ permalink: /about/
 - **Theme:** Minima (built-in GitHub Pages)
 - **Two pages:** Home ↔ About (linked both ways)
 - **External link:** RCOS website on the Home page
-- **Custom CSS:** `/assets/css/styles.css` (overrides Minima)
 
 Back to **[Home]({{ "/" | relative_url }})**.
