@@ -9,7 +9,7 @@ title: Home
 
 This is my GitHub Pages site built with **Jekyll + Minima**.
 
-- Go to the **[About]({{ "/about" | relative_url }})** page
+- Go to the **[About]({{ "about" | relative_url }})** page
 - Visit **[RCOS @ RPI](https://rcos.io/)** 
 
 ![RCOS Logo]({{ "/rpilogo.png" | relative_url }})
