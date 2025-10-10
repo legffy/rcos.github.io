@@ -1,5 +1,5 @@
 ---
-<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/styles.css' | relative_url }}">
 
 layout: home
 title: Home
