@@ -1,4 +1,6 @@
 ---
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+
 layout: home
 title: Home
 ---
