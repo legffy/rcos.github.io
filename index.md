@@ -1,8 +1,15 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-# Welcome to my RCOS site
+# Welcome 👋
 
-This is built with Jekyll + GitHub Pages.
+This is my GitHub Pages site built with **Jekyll + Minima**.
+
+- Go to the **[About]({{ "/about/" | relative_url }})** page
+- Visit **[RCOS @ RPI](https://rcos.io/)** 
+
+![RCOS Logo]({{ "/rpilogo.png" | relative_url }})
+
+
